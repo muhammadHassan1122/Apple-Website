@@ -1,0 +1,260 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+li {
+    list-style: none;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 75%;
+}
+
+nav {
+    overflow: hidden;
+   display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    background-color: #FCFCFD;
+    margin: 0;
+    height: 45px;
+    position: fixed;
+    z-index: 9999;
+}
+main{
+    height: 2000px;
+    position: relative;
+    padding-top: 50px;
+    z-index: 100;
+}
+h4{
+    /* padding: 16px; */
+    /* margin-top: 50px; */
+    /* height: 1500px; Used in this example to enable scrolling */
+    text-align: center;
+}
+
+.color{
+    color: blue;
+}
+
+.img{
+    background-image: url(./images/iphone.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 580px;
+    cursor: pointer;
+    position: relative;
+}
+
+.div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+
+.h1{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+}
+
+.h2{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+}
+
+.h3{
+    color: #4A92DB;
+    font-size: 20px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    margin-top: 15px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+.banner{
+    background-image: url(./images/iphone\ 2.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 580px;
+    cursor: pointer;
+    margin-top: 40px;
+}
+
+.h10{
+    font-size: 50px;
+    color: black;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+}
+
+.h20{
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+}
+
+.mac{
+    background-image: url(./images/Macbook.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 580px;
+    cursor: pointer;
+    margin-top: 40px;
+}
+
+.ipad{
+    background-image: url(./images/ipad.jpg);
+    width: 48%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 580px;
+    cursor: pointer;
+    margin-top: 40px;
+}
+
+.threeD{
+    background-image: url(./images/3D.jpg);
+    width: 48%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 580px;
+    cursor: pointer;
+    margin-top: 40px;
+}
+.ipad-1{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.yoyo{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.watch{
+    background-image: url(./images/watch.png);
+    width: 48%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 580px;
+    cursor: pointer;
+    margin-top: 40px;
+}
+
+.learn{
+    background-image: url(./images/ipad-m2-4.webp);
+    width: 48%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 580px;
+    cursor: pointer;
+    margin-top: 40px;
+}
+
+.head{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+}
+
+.healthy{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+}
+
+.tree{
+    background-image: url(./images/trade\ in.jpeg);
+    width: 48%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 580px;
+    cursor: pointer;
+    margin-top: 40px;
+}
+
+.mango{
+    font-size: 50px;
+    color: black;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+}
+
+.apple{
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+}
+
+.milk{
+    background-image: url(./images/Apple-Card.jpg);
+    width: 48%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 580px;
+    cursor: pointer;
+    margin-top: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
